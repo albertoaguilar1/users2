@@ -1,5 +1,5 @@
 {
-  "name": "iuxusers",
+  "name": "users2",
   "version": "1.0.0",
   "description": "microservicio de usuarios",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albertoaguilar1/iuxUsers.git"
+    "url": "git+https://github.com/albertoaguilar1/users2.git"
   },
   "keywords": [
     "exataUser",
@@ -21,9 +21,9 @@
   "author": "jaguilarh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/albertoaguilar1/iuxUsers/issues"
+    "url": "https://github.com/albertoaguilar1/users2/issues"
   },
-  "homepage": "https://github.com/albertoaguilar1/iuxUsers#readme",
+  "homepage": "https://github.com/albertoaguilar1/users2#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "bcryptjs": "^2.4.3",
